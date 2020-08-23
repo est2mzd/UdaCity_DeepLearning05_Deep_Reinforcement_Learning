@@ -1,0 +1,21 @@
+# Listを見る
+conda list
+
+# 環境を作って、Activateする
+conda create --name ml-agents python=3.6
+conda activate ml-agents
+
+# ダウンロード
+git clone --branch release_1 https://github.com/Unity-Technologies/ml-agents.git
+
+# フォルダのコピー、カレントフォルダに、下記3つを保存
+mlagets
+mlagets_envs
+gym_unity
+
+# コピーフォルダ直下にある、setup.py　を実行する
+pip3 install -e ./ml-agents-envs
+pip3 install -e ./ml-agents
+
+# 
+README.md

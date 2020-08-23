@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f025415c-5dfd-4fb3-94f4-33a52c5909b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="81cc025b-3121-417d-9c0a-4d167b9fca9a" />
+  <component name="ProjectId" id="1bRahn9hfgqzKgL0XNKp4U8R00c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lesson_09_dpn" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\002_Work\UdaCity\02_Deep_Learning\06_Deep_Reinforcement_Learning\PyCharm\Lesson_11_ddpg-bipedal" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Lesson_11_ddpg-bipedal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f025415c-5dfd-4fb3-94f4-33a52c5909b0" name="Default Changelist" comment="" />
+      <created>1588597481994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588597481994</updated>
+      <workItem from="1588597483329" duration="113000" />
+      <workItem from="1588604420139" duration="589000" />
+      <workItem from="1588607854953" duration="3100000" />
+      <workItem from="1588671009665" duration="719000" />
+      <workItem from="1588673393464" duration="1242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2680" y="304" key="FileChooserDialogImpl" timestamp="1588681127953">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="760" y="304" key="FileChooserDialogImpl/3840.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1588671084684" />
+    <state x="2680" y="304" key="FileChooserDialogImpl/3840.0.1920.1050/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1588681127953" />
+    <state x="760" y="304" key="FileChooserDialogImpl/3840.0.1920.1050/1920.2.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1588607863304" />
+    <state x="468" y="169" key="SettingsEditor" timestamp="1588609707032">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="468" y="169" key="SettingsEditor/3840.0.1920.1050/1920.2.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1588609707032" />
+  </component>
+</project>
